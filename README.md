@@ -10,3 +10,5 @@ Make a JavaScript Basic Projects:-
 
 4-Password Toggler using HTML, CSS, and JavaScript.
 
+5-Image Gallery using HTML, CSS, and JavaScript.
+
